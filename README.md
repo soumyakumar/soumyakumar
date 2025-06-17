@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Soumya 👋
 
-<!--
-**soumyakumar/soumyakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Aspiring Game Developer | 3 years of experience in 2D mobile games using Cocos2d-JS  
+📚 Currently learning Unity and building personal game projects  
+💻 Background in Computer Science (B.Tech, 2019)  
+🌱 Passionate about gameplay feel, UI/UX, and rapid iteration  
+🔗 Resume: https://docs.google.com/document/d/1mU5_USMQmMpVoeiTm8bmhMkztWf1DIwFvweG5CHpnBI/edit?usp=sharing 
 
-Here are some ideas to get you started:
+### 🔧 Tools & Languages:
+- JavaScript, C++, HTML5, CSS
+- Cocos2d-JS (3 years), Unity (learning)
+- Git Bash, Jira, Mantis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 In Progress:
+Working on a simple 2D platformer in Unity—coming soon on this profile!
+
